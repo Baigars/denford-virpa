@@ -1,3 +1,3 @@
-# src/gcode_generator.py
-
-"""G-code generation placeholder."""
+# gcode_generator.py
+def generate_gcode_from_profile(profile_points):
+    return []
